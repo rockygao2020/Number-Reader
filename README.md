@@ -46,7 +46,7 @@ TESTING DIGIT 9:
 * All PNGs are colorless.
 
 # How to Run:
-* Requires the following depndencies:
+* Requires the following dependencies:
 ```
 pip install numpy
 pip install matplotlib
@@ -56,7 +56,7 @@ pip install pyqt5
 * The `input` folder holds test cases, not the digit drawn by the user.
 * The `tests` folder holds the dataset that the program depends on. Written by me, but can be replaced by any sample data by the same naming convention.
 
-# What I Utilized/Learned/Analysis:
+# What I Utilized:
 * Basic Optical Character Recognition(OCR) and Handwritten Text Recognition(HTR) using Singular Value Decomposition(SVD).
 * Linear Algebra and Matrix Computations using Numpy. 
 * Python Modular Programming/Inheritance/Object-Oriented-Programming
