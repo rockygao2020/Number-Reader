@@ -1,5 +1,5 @@
 # Number-Reader
-Attempt at creating a program that recognizes single handwritten digits using Singular Value Decomposition (SVD). Currently 75% accuracy (when using my own handwriting, and a sample dataset written by me).
+Attempt at Handwritten Text Recognition(HTR) of digits using Singular Value Decomposition(SVD). Currently 75% accuracy (when using my own handwriting, and a sample dataset written by me).
 
 # PyQT6 Tests
 1. ![image](https://github.com/user-attachments/assets/5c4035e1-b498-4143-915e-d31753351bb1)
